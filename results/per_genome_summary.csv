@@ -1,0 +1,11 @@
+genome,n_genes,n_classes,accession,serovar,MDR
+Choleraesuis_SC-B67,19,10,GCF_000008105.1,Choleraesuis,True
+Newport_SL254,12,6,GCF_000016045.1,Newport,True
+Heidelberg_SL476,8,6,GCF_000020705.1,Heidelberg,True
+Typhi_CT18,7,6,GCF_000195995.1,Typhi,True
+Typhimurium_SL1344,5,3,GCF_000210855.2,Typhimurium,True
+Typhimurium_LT2,2,1,GCF_000006945.2,Typhimurium,False
+Typhimurium_14028S,2,1,GCF_008244845.1,Typhimurium,False
+Enteritidis_P125109,2,1,GCF_000009505.1,Enteritidis,False
+Typhi_Ty2,0,0,GCF_000007545.1,Typhi,False
+ParatyphiA_ATCC9150,0,0,GCA_010634545.1,Paratyphi A,False

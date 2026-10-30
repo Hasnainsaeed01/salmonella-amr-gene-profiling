@@ -1,0 +1,11 @@
+label,accession,organism,serovar,strain,assembly_level,source
+Typhimurium_LT2,GCF_000006945.2,Salmonella enterica subsp. enterica,Typhimurium,LT2,Complete Genome,NCBI RefSeq
+Typhimurium_SL1344,GCF_000210855.2,Salmonella enterica subsp. enterica,Typhimurium,SL1344,Complete Genome,NCBI RefSeq
+Typhimurium_14028S,GCF_008244845.1,Salmonella enterica subsp. enterica,Typhimurium,14028S,Complete Genome,NCBI RefSeq
+Enteritidis_P125109,GCF_000009505.1,Salmonella enterica subsp. enterica,Enteritidis,P125109,Complete Genome,NCBI RefSeq
+Typhi_CT18,GCF_000195995.1,Salmonella enterica subsp. enterica,Typhi,CT18,Complete Genome,NCBI RefSeq
+Typhi_Ty2,GCF_000007545.1,Salmonella enterica subsp. enterica,Typhi,Ty2,Complete Genome,NCBI RefSeq
+Heidelberg_SL476,GCF_000020705.1,Salmonella enterica subsp. enterica,Heidelberg,SL476,Complete Genome,NCBI RefSeq
+Newport_SL254,GCF_000016045.1,Salmonella enterica subsp. enterica,Newport,SL254,Complete Genome,NCBI RefSeq
+Choleraesuis_SC-B67,GCF_000008105.1,Salmonella enterica subsp. enterica,Choleraesuis,SC-B67,Complete Genome,NCBI RefSeq
+ParatyphiA_ATCC9150,GCA_010634545.1,Salmonella enterica subsp. enterica,Paratyphi A,ATCC 9150,Contig,NCBI GenBank

@@ -1,0 +1,58 @@
+genome,accession,serovar,gene_symbol,gene_name,Class,Subclass,element_type,scope,coverage_pct,identity_pct
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,tet(A),tetracycline efflux MFS transporter Tet(A),TETRACYCLINE,TETRACYCLINE,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,catA2,type A-2 chloramphenicol O-acetyltransferase CatII,PHENICOL,CHLORAMPHENICOL,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,blaTEM,TEM family class A beta-lactamase,BETA-LACTAM,BETA-LACTAM,AMR,core,91.96,99.62
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,aph(3')-Ia,aminoglycoside O-phosphotransferase APH(3')-Ia,AMINOGLYCOSIDE,KANAMYCIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,dfrA12,trimethoprim-resistant dihydrofolate reductase DfrA12,TRIMETHOPRIM,TRIMETHOPRIM,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,aadA2,ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,sul1,sulfonamide-resistant dihydropteroate synthase Sul1,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,sul3,sulfonamide-resistant dihydropteroate synthase Sul3,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,aadA1,ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,cmlA1,chloramphenicol efflux MFS transporter CmlA1,PHENICOL,CHLORAMPHENICOL,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,aadA2,ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,estX-3,macrolide esterase EstX-3,MACROLIDE,TYLOSIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,aph(3'')-Ib,aminoglycoside O-phosphotransferase APH(3'')-Ib,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,85.02,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,blaCMY-2,extended-spectrum class C beta-lactamase CMY-2,BETA-LACTAM,CEPHALOSPORIN,AMR,core,100.0,100.0
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,99.72
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,98.77
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,gyrA_D87N,Salmonella quinolone resistant GyrA,QUINOLONE,QUINOLONE,AMR,core,100.0,99.77
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,gyrA_S83F,Salmonella quinolone/triclosan resistant GyrA,QUINOLONE/TRICLOSAN,QUINOLONE/TRICLOSAN,AMR,core,100.0,99.77
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,parC_S80I,Salmonella quinolone resistant ParC,QUINOLONE,QUINOLONE,AMR,core,100.0,99.47
+Enteritidis_P125109,GCF_000009505.1,Enteritidis,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,99.81
+Enteritidis_P125109,GCF_000009505.1,Enteritidis,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,98.28
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,99.62
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,98.04
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,aph(3'')-Ib,aminoglycoside O-phosphotransferase APH(3'')-Ib,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,aph(6)-Id,aminoglycoside O-phosphotransferase APH(6)-Id,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,blaTEM-1,broad-spectrum class A beta-lactamase TEM-1,BETA-LACTAM,BETA-LACTAM,AMR,core,100.0,100.0
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,sul1,sulfonamide-resistant dihydropteroate synthase Sul1,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,tet(B),tetracycline efflux MFS transporter Tet(B),TETRACYCLINE,TETRACYCLINE,AMR,core,100.0,100.0
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,fosA7,fosfomycin resistance glutathione transferase FosA7,FOSFOMYCIN,FOSFOMYCIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,floR,chloramphenicol/florfenicol efflux MFS transporter FloR,PHENICOL,CHLORAMPHENICOL/FLORFENICOL,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,tet(A),tetracycline efflux MFS transporter Tet(A),TETRACYCLINE,TETRACYCLINE,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,aph(6)-Id,aminoglycoside O-phosphotransferase APH(6)-Id,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,aph(3'')-Ib,aminoglycoside O-phosphotransferase APH(3'')-Ib,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,sul2,sulfonamide-resistant dihydropteroate synthase Sul2,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,blaCMY-2,extended-spectrum class C beta-lactamase CMY-2,BETA-LACTAM,CEPHALOSPORIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,blaCMY-2,extended-spectrum class C beta-lactamase CMY-2,BETA-LACTAM,CEPHALOSPORIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,aadA25,ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA25,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,aac(3)-VIa,aminoglycoside N-acetyltransferase AAC(3)-VIa,AMINOGLYCOSIDE,GENTAMICIN,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,sul1,sulfonamide-resistant dihydropteroate synthase Sul1,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Newport_SL254,GCF_000016045.1,Newport,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,99.72
+Newport_SL254,GCF_000016045.1,Newport,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,98.28
+Typhi_CT18,GCF_000195995.1,Typhi,dfrA14,trimethoprim-resistant dihydrofolate reductase DfrA14,TRIMETHOPRIM,TRIMETHOPRIM,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,catA1,type A-1 chloramphenicol O-acetyltransferase,PHENICOL,CHLORAMPHENICOL,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,blaTEM-1,broad-spectrum class A beta-lactamase TEM-1,BETA-LACTAM,BETA-LACTAM,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,sul2,sulfonamide-resistant dihydropteroate synthase Sul2,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,aph(3'')-Ib,aminoglycoside O-phosphotransferase APH(3'')-Ib,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,aph(6)-Id,aminoglycoside O-phosphotransferase APH(6)-Id,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Typhi_CT18,GCF_000195995.1,Typhi,tet(B),tetracycline efflux MFS transporter Tet(B),TETRACYCLINE,TETRACYCLINE,AMR,core,100.0,100.0
+Typhimurium_14028S,GCF_008244845.1,Typhimurium,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_14028S,GCF_008244845.1,Typhimurium,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_LT2,GCF_000006945.2,Typhimurium,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_LT2,GCF_000006945.2,Typhimurium,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,mdsB,multidrug efflux RND transporter permease subunit MdsB,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,mdsA,multidrug efflux RND transporter periplasmic adaptor subunit MdsA,EFFLUX,EFFLUX,AMR,plus,100.0,100.0
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,sul2,sulfonamide-resistant dihydropteroate synthase Sul2,SULFONAMIDE,SULFONAMIDE,AMR,core,100.0,100.0
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,aph(6)-Id,aminoglycoside O-phosphotransferase APH(6)-Id,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,aph(3'')-Ib,aminoglycoside O-phosphotransferase APH(3'')-Ib,AMINOGLYCOSIDE,STREPTOMYCIN,AMR,core,100.0,100.0
